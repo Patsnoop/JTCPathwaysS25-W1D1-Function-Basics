@@ -1,0 +1,4 @@
+# GitHub Classroom Configuration
+# Exclude solution files
+ignore:
+  - solutions/
