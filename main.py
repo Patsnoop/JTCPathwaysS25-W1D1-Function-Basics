@@ -9,5 +9,6 @@ def add_numbers(a: int, b: int) -> int:
     Returns:
         int: Sum of the two numbers
     """
+    return(a+b)
     # TODO: Implement this function
     pass
