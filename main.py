@@ -1,14 +1,20 @@
-def add_numbers(a: int, b: int) -> int:
+def greet(name: str) -> str:
     """
-    Adds two numbers and returns the result.
-    
-    Parameters:
-        a (int): First number
-        b (int): Second number
-    
-    Returns:
-        int: Sum of the two numbers
+    Returns a greeting message for the given name.
     """
-    return(a+b)
+    # TODO: Implement this function
+    pass
+
+def is_even(number: int) -> bool:
+    """
+    Returns True if the number is even, False otherwise.
+    """
+    # TODO: Implement this function
+    pass
+
+def max_of_two(a: int, b: int) -> int:
+    """
+    Returns the larger of two numbers.
+    """
     # TODO: Implement this function
     pass

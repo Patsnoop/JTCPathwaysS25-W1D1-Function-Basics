@@ -1,6 +1,6 @@
 {
-    "name": "Python Dev",
-    "image": "mcr.microsoft.com/devcontainers/python:3",
-    "features": {},
-    "postCreateCommand": "pip install -r requirements.txt"
-  }
+  "name": "Python Functions Basics",
+  "image": "mcr.microsoft.com/devcontainers/python:3",
+  "features": {},
+  "postCreateCommand": "pip install -r requirements.txt"
+}
